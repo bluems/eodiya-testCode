@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testRetrofit</string>
+    <string name="baseUrl">http://202.31.147.236:28080</string>
+</resources>
